@@ -1,6 +1,5 @@
 {"Details":
- {
- "Employee" : [
+  [
    {"EmployeeName":"Asok","Age":"0","EmployeeId":"1"},
   {"EmployeeName":"asj","Age":"jj","EmployeeId":"uu"},
   {"EmployeeName":"dfg","Age":"456","EmployeeId":"74"},
@@ -15,5 +14,5 @@
   {"EmployeeName":"Ashok","Age":"12","EmployeeId":"001"},
   {"EmployeeName":"logesh","Age":"19","EmployeeId":"002"}
  ]
- }
+ 
 }
